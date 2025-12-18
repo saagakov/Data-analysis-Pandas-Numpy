@@ -1,4 +1,4 @@
-# Statistical-data-analysis-project
+# Data-analysis-Pandas-Numpy
 
 Data Analysis Project
 Libraries used:
